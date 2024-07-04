@@ -5,7 +5,7 @@
 This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch. 
 
 > *What I cannot create, I do not understand — Richard Feynman.*
-
+https://thecleverprogrammer.com/2022/03/09/data-science-projects/
 It's a great way to learn.
 
 * [3D Renderer](#build-your-own-3d-renderer)
